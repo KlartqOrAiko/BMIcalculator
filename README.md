@@ -37,7 +37,7 @@ A simple and clean WinForms desktop application that calculates your Body Mass I
 **1. Clone the repository**
 ```bash
 git clone https://github.com/KlartqOrAiko/BMIcalculator.git
-cd bmi-calculator
+cd bmicalculator
 ```
 
 **2. Create a new WinForms project**
